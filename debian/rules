@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+
+DEB_PYTHON2_MODULE_PACKAGES := edusantara-wallpapers
+
+include /usr/share/cdbs/1/rules/debhelper.mk
+include /usr/share/cdbs/1/class/python-distutils.mk
+
+install/edusantara-wallpapers::
+	rm -r debian/tmp/usr/lib/python*

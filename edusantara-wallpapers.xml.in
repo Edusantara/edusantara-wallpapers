@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <_name>Edusantara Anambas Wallpapers</_name>
+    <filename>/usr/share/backgrounds/contex/anambas.xml</filename>
+    <options>zoom</options>
+    <pcolor>#1E558A</pcolor>
+    <scolor>#1E558A</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

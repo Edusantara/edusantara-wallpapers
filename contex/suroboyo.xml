@@ -1,0 +1,34 @@
+<background>
+  <starttime>
+    <year>2011</year>
+    <month>11</month>
+    <day>24</day>
+    <hour>4</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+  
+<!-- This animation will start at 4 AM. -->
+
+<static>
+<duration>10795.0</duration>
+<file>/usr/share/backgrounds/edusantara1.png</file>
+</static>
+
+<transition type="overlay">
+<duration>5.0</duration>
+<from>/usr/share/backgrounds/edusantara1.png</from>
+<to>/usr/share/backgrounds/edusantara2.png</to>
+</transition>
+
+<static>
+<duration>14395.0</duration>
+<file>/usr/share/backgrounds/edusantara2.png</file>
+</static>
+
+<transition type="overlay">
+<duration>5.0</duration>
+<from>/usr/share/backgrounds/edusantara2.png</from>
+<to>/usr/share/backgrounds/edusantara1.png</to>
+</transition>
+</background>

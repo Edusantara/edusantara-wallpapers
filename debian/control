@@ -1,0 +1,26 @@
+Source: edusantara-wallpapers
+Section: x11
+Priority: optional
+Maintainer: BlankOn Developers <BlankOn@googlegroups.com>
+Build-Depends: debhelper (>= 8), cdbs (>= 0.4.90~), python (>= 2.6.6-3~)
+Build-Depends-Indep: python-distutils-extra
+Standards-Version: 3.9.5
+
+Package: edusantara-wallpapers
+Architecture: all
+Section: metapackages
+Depends: ${misc:Depends},
+         edusantara-wallpapers-anambas
+Conflicts: blankon-wallpapers-rote
+Replaces: blankon-wallpapers-rote
+Description: Edusantara Wallpapers
+ The default Edusantara wallpaper. This is also a meta-package depending on the 
+ other default wallpapers for the current Edusantara release.
+
+Package: edusantara-wallpapers-anambas
+Architecture: all
+Depends: ${misc:Depends}
+Conflicts: blankon-wallpapers-rote
+Replaces: blankon-wallpapers-rote
+Description: Edusantara Anambas Wallpapers
+ The default Edusantara wallpapers for the current Edusantara Anambas release.
