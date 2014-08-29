@@ -4,7 +4,7 @@
   <wallpaper>
     <_name>Edusantara 1</_name>
     <filename>/usr/share/backgrounds/edusantara1.png</filename>
-    <options>zoom</options>
+    <options>stretched</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
@@ -12,15 +12,39 @@
   <wallpaper>
     <_name>Edusantara 2</_name>
     <filename>/usr/share/backgrounds/edusantara2.png</filename>
-    <options>zoom</options>
+    <options>stretched</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
-    <wallpaper>
+  <wallpaper>
     <_name>Garabah</_name>
     <filename>/usr/share/backgrounds/garabah.jpg</filename>
-    <options>zoom</options>
+    <options>stretched</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>StarFish 1</_name>
+    <filename>/usr/share/backgrounds/starfish1.jpg</filename>
+    <options>stretched</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>StarFish 2</_name>
+    <filename>/usr/share/backgrounds/starfish2.jpg</filename>
+    <options>stretched</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Pearl</_name>
+    <filename>/usr/share/backgrounds/pearl.jpg</filename>
+    <options>stretched</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>

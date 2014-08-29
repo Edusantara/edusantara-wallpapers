@@ -4,7 +4,7 @@
   <wallpaper>
     <_name>Edusantara Anambas Wallpapers</_name>
     <filename>/usr/share/backgrounds/contex/anambas.xml</filename>
-    <options>zoom</options>
+    <options>stretched</options>
     <pcolor>#1E558A</pcolor>
     <scolor>#1E558A</scolor>
     <shade_type>solid</shade_type>
